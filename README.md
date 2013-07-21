@@ -59,7 +59,7 @@ User-defined parameters
 The file
 
 ````
-myeloma/README_userDefinedParameters_myeloma.R
+./myeloma/README_userDefinedParameters_myeloma.R
 ````
 
 and its counterpart in the simulation/ folder contain all of the
